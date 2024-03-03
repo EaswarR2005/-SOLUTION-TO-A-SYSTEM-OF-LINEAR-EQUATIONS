@@ -31,6 +31,8 @@ result=np.linalg.solve(A,B)
 print(result)
 
 ## Output:
+![Screenshot 2024-02-28 083432](https://github.com/EaswarR2005/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/146931525/8db068cc-8526-4ef8-82d7-604ed0a9cb13)
+
 ![system of linear equation](https://github.com/EaswarR2005/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/146931525/34dbd76b-d9d7-46b1-bc03-fb9d3e2a51d5)
 
 ## Result: 
